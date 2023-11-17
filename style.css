@@ -38,10 +38,9 @@ box-shadow: 0 0 5px #06474c69,
 0 0 50px #5a7276, 
 0 0 50px #5c6e72, 
 0 0 50px #3a7c7c;
+
 }
-#searhcDiv::-webkit-scrollbar {
-display:none;
-}
+
 
 .card{
 margin-top: 30px;
