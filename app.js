@@ -15,7 +15,7 @@ const getCountry = async () => {
         const data = await res.json();
         allCountriesData = data;
         console.log(data);
-        displayCountry(data);
+        displayCountry(data,"Turkey");
     } catch (error) {
         console.log(error);
     }
@@ -81,7 +81,7 @@ searchbtn.addEventListener('click', (e) => {
     searchCountry(Term);
 });
 window.addEventListener("load", () => {
-    listItem.innerHTML = ""
+    getCountry();
   })
 
 getCountry();
