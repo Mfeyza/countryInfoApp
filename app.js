@@ -47,7 +47,7 @@ list.innerHTML = ""
         <li class="list-group-item">Region: ${region}</li>
         <li class="list-group-item">Capitals: ${capital}</li>
         <li class="list-group-item">Languages: ${Object.keys(languages)}</li>
-        <li class="list-group-item">Borders: ${Object.keys(borders)} </li>
+        <li class="list-group-item">Borders: ${borders} </li>
         <li class="list-group-item">Currencies: ${Object.keys(currencies)} </li>
         <li class="list-group-item">Population: ${population}  </li>
 
