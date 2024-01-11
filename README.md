@@ -34,7 +34,7 @@ The application is responsive and works well on both desktop and mobile devices.
 
 
 
-<img src="./Ekran görüntüsü 2024-01-12 014501.png"  width="90.5%" height="550" />
+<img src="./Animationcountry.gif"  width="90.5%" height="550" />
 
 
 visit my page : https://vercel.com/feyzas-projects-a38ad088/country
